@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "ac1938efd3c03c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1451736352e33679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64bfabde285c2206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tema2-ondas-sismicas/2.1 - Ondas de cuerpo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b996363dbf23d8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "842ea47f8b8ca218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63d0cbb7d00c08d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e732a05386cc180c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c266cf903278d41b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03cf6932e3702086",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf076b97f9d6410f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7bd03570ec1383",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tema2-ondas-sismicas/2.1 - Ondas de cuerpo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bacbd18215925597",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tema2-ondas-sismicas/2.1 - Ondas de cuerpo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d43730a95a36f1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac3f2a76adf850ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tema2-ondas-sismicas/2.1 - Ondas de cuerpo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64bfabde285c2206",
+  "lastOpenFiles": [
+    "tema2-ondas-sismicas/img/waveq-string-derivation.png",
+    "tema2-ondas-sismicas/img/Captura de pantalla 2024-09-12 a la(s) 4.26.40 p.m..png",
+    "tema2-ondas-sismicas/Captura de pantalla 2024-09-12 a la(s) 4.26.40 p.m..png",
+    "tema2-ondas-sismicas/img",
+    "tema2-ondas-sismicas/carpeta sin título",
+    "tema2-ondas-sismicas/2.1 - Ondas de cuerpo.md",
+    "tema6-aplicaciones-de-la-sismologia",
+    "tema5-impacto-social-de-los-sismos",
+    "tema4-fuente-sismica",
+    "tema3-medicion-de-los-sismos",
+    "tema2-ondas-sismicas",
+    "tema1-origen-de-los-sismos"
+  ]
+}
